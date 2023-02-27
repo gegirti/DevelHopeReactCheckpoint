@@ -1,0 +1,7 @@
+FIRST, create the UI with following elements:
+<div> to display the Student's name (name), 
+number of joined classes (classCount), and
+information about the student being (or not) in the Class (inClass)
+
+<form> with one input field (Student's name) and one button (save student name)
+<button> that says either Join the class or Leave the class (depends on inClass)
